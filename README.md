@@ -79,7 +79,7 @@ Axios: A popular JavaScript library for making HTTP requests.
 
   ## Screenshots
 
- ![Home page](assets/WhatsApp%20Image%202023-09-29%20at%2010.16.22.jpeg) 
+ ![Home page](./scanner/assets/WhatsApp%20Image%202023-09-29%20at%2010.16.22.jpeg) 
 
  ## Issues and Contributions
 
